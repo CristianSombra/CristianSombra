@@ -1,16 +1,16 @@
-### ¿Quién Soy?:
+### ¿Quién Soy?
 
 Hola, soy Cristian Sombra, un apasionado Full Stack Developer recién graduado, entusiasta del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido emocionante y educativo, y estoy emocionado por lo que el futuro tiene reservado para mí en este fascinante campo.
 
-### ¿Qué Hago?:
+### ¿Qué Hago?
 
 Como Full Stack Developer, mi enfoque se centra en crear experiencias digitales excepcionales. Desde el frontend hasta el backend, me especializo en transformar ideas creativas en soluciones funcionales. Utilizo mis habilidades en JavaScript, HTML, CSS, Node.js, React.js, Redux, Express, Sequelize y PostgreSQL para construir aplicaciones web y móviles innovadoras y eficientes.
 
-### ¿A Dónde Me Dirijo?:
+### ¿A Dónde Me Dirijo?
 
 Mi viaje no ha hecho más que empezar. Mi objetivo es seguir creciendo como profesional y contribuir significativamente al mundo del desarrollo. Estoy en una búsqueda constante de conocimiento y nuevas experiencias. Mi pasión por la programación me impulsa a explorar nuevas tecnologías y prácticas para mantenerme al tanto de las últimas tendencias y desafíos en el campo del desarrollo web.
 
-### Tecnologías que Utilizo?:
+### Tecnologías que Utilizo?
 
 - **Frontend:** JavaScript, HTML, CSS, React.js, Redux
 - **Backend:** Node.js, Express, Sequelize, PostgreSQL
