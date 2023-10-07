@@ -19,7 +19,7 @@ Estas tecnologías no son solo herramientas para mí; son pinceles que utilizo p
 
 Gracias por visitar mi perfil de GitHub. Estoy emocionado por las oportunidades que el futuro tiene reservado, y espero colaborar, aprender y crear juntos. ¡Bienvenidos a mi viaje en el mundo del desarrollo! 🚀✨
 
-**Links de contacto:
+**Links de contacto:**
 - linkedin.com/in/cristian-sombra-098241253
 - https://twitter.com/CristianSombra8
 - cristiansombra87@gmail.com
