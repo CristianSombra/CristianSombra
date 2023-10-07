@@ -15,9 +15,9 @@ Mi viaje no ha hecho más que empezar. Mi objetivo es seguir creciendo como prof
 - **Frontend:** JavaScript, HTML, CSS, React.js, Redux
 - **Backend:** Node.js, Express, Sequelize, PostgreSQL
 
-Estas tecnologías no son solo herramientas para mí; son pinceles que utilizo para pintar mis ideas en el lienzo digital. Me dedico a la excelencia, la innovación y la resolución creativa de problemas. Estoy aquí para aprender, crecer y hacer una diferencia en el mundo digital.
+Me dedico a la excelencia, la innovación y la resolución creativa de problemas. Estoy aquí para aprender, crecer y hacer una diferencia en el mundo digital.
 
-Gracias por visitar mi perfil de GitHub. Estoy emocionado por las oportunidades que el futuro tiene reservado, y espero colaborar, aprender y crear juntos. ¡Bienvenidos a mi viaje en el mundo del desarrollo! 🚀✨
+Gracias por visitar mi perfil de GitHub. Estoy emocionado por las oportunidades que el futuro tiene reservado, y espero colaborar, aprender y crear junto a quien quiera contar conmigo. 🚀✨
 
 **Links de contacto:**
 - linkedin.com/in/cristian-sombra-098241253
