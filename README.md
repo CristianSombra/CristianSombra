@@ -20,6 +20,6 @@ Me dedico a la excelencia, la innovación y la resolución creativa de problemas
 Gracias por visitar mi perfil de GitHub. Estoy emocionado por las oportunidades que el futuro tiene reservado, y espero colaborar, aprender y crear junto a quien quiera contar conmigo. 🚀✨
 
 **Links de contacto:**
-- linkedin.com/in/cristian-sombra-098241253
+- linkedin.com/in/cristiansombra
 - https://twitter.com/CristianSombra8
 - cristiansombra87@gmail.com
