@@ -14,6 +14,7 @@ Mi viaje no ha hecho más que empezar. Mi objetivo es seguir creciendo como prof
 
 - **Frontend:** JavaScript, HTML, CSS, React.js, Redux
 
+
 <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/CSS.png" alt="Ejemplo de imagen" width="80" height="80">
 
 
