@@ -16,15 +16,10 @@ Como Full Stack Developer, mi enfoque se centra en crear experiencias digitales 
 
 ### Tecnologías que Utilizo?
 
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/HTML.png" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/CSS.png" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/JS.png" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/NODE.png" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/REACT.png" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/REDUX.png" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/EXPRESS.png" alt="Ejemplo de imagen" width="80" height="80">
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/SEQUELIZE.png" alt="Ejemplo de imagen" width="115" height="90">
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/POSTGRESQL.png" alt="Ejemplo de imagen" width="80" height="80">
+### Tecnologías que Utilizo?
+
+<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/HTML.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/CSS.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/JS.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/NODE.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/REACT.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/REDUX.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/EXPRESS.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/SEQUELIZE.png" alt="Ejemplo de imagen" width="115" height="90"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/POSTGRESQL.png" alt="Ejemplo de imagen" width="80" height="80">
+
 
 
 ### ¿A Dónde Me Dirijo?
