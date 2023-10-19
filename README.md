@@ -6,6 +6,9 @@ Hola, soy Cristian Sombra, un apasionado Full Stack Developer recién graduado, 
 - https://twitter.com/CristianSombra8
 - cristiansombra87@gmail.com
 
+
+
+
 ### ¿Qué Hago?
 
 Como Full Stack Developer, mi enfoque se centra en crear experiencias digitales excepcionales. Desde el frontend hasta el backend, me especializo en transformar ideas creativas en soluciones funcionales. Utilizo mis habilidades en JavaScript, HTML, CSS, Node.js, React.js, Redux, Express, Sequelize y PostgreSQL para construir aplicaciones web y móviles innovadoras y eficientes.
@@ -14,11 +17,12 @@ Como Full Stack Developer, mi enfoque se centra en crear experiencias digitales 
 - https://cristiansombra.com
 
 
-### Tecnologías que Utilizo?
+
 
 ### Tecnologías que Utilizo?
 
 <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/HTML.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/CSS.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/JS.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/NODE.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/REACT.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/REDUX.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/EXPRESS.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/SEQUELIZE.png" alt="Ejemplo de imagen" width="115" height="90"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/POSTGRESQL.png" alt="Ejemplo de imagen" width="80" height="80">
+
 
 
 
