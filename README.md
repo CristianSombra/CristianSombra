@@ -13,7 +13,9 @@ Mi viaje no ha hecho más que empezar. Mi objetivo es seguir creciendo como prof
 ### Tecnologías que Utilizo?
 
 - **Frontend:** JavaScript, HTML, CSS, React.js, Redux
-![CSS](https://github.com/CristianSombra/CristianSombra/blob/main/CSS.png){:width="80px" height="80px"}
+
+<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/CSS.png" alt="Ejemplo de imagen" width="80" height="80">
+
 
 - **Backend:** Node.js, Express, Sequelize, PostgreSQL
 
