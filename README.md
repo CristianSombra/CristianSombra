@@ -1,6 +1,6 @@
 ### ¿Quién Soy?
 
-Hola, soy Cristian Sombra, un apasionado Full Stack Developer graduado, entusiasta del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido emocionante y educativo, y estoy emocionado por lo que el futuro tiene reservado para mí en este fascinante campo.
+Hola, soy Cristian Sombra, un apasionado Full Stack Developer graduado de Henry, entusiasta del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido increíble, y estoy emocionado por lo que el futuro tiene reservado para mí en este fascinante campo.
 **Links de contacto:**
 - https://linkedin.com/in/cristiansombra
 - https://twitter.com/CristianSombra8
