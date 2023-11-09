@@ -28,7 +28,7 @@ Como Full Stack Developer, mi enfoque se centra en crear experiencias digitales 
 
 ### ¿A Dónde Me Dirijo?
 
-Mi viaje no ha hecho más que empezar. Mi objetivo es seguir creciendo como profesional y contribuir significativamente al mundo del desarrollo. Estoy en una búsqueda constante de conocimiento y nuevas experiencias. Mi pasión por la programación me impulsa a explorar nuevas tecnologías y prácticas para mantenerme al tanto de las últimas tendencias y desafíos en el campo del desarrollo web.
+Mi objetivo es seguir creciendo como profesional y contribuir significativamente al mundo del desarrollo. Estoy en una búsqueda constante de conocimiento y nuevas experiencias. Mi pasión por la programación me impulsa a explorar nuevas tecnologías y prácticas para mantenerme al tanto de las últimas tendencias y desafíos en el campo del desarrollo web.
 
 Gracias por visitar mi perfil de GitHub. Estoy emocionado por las oportunidades que el futuro tiene reservado, y espero colaborar, aprender y crear junto a quien quiera contar conmigo. 🚀✨
 
