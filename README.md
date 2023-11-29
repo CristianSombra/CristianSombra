@@ -1,5 +1,5 @@
 ### ¿Quién Soy? 😎
-
+---
 Hola, soy Cristian Sombra, Full Stack Developer graduado de Henry, apasionado del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido increíble, y me cambió la vida.
 
 **Links de contacto:**
@@ -7,15 +7,15 @@ Hola, soy Cristian Sombra, Full Stack Developer graduado de Henry, apasionado de
 - https://twitter.com/CristianSombra8
 - cristiansombra87@gmail.com
 
-
+**Portfolio:**
+- https://cristiansombra.com
 
 
 ### ¿Qué Hago? ✍️
 
 Como Full Stack, mi enfoque se centra en crear experiencias digitales excepcionales. Desde el frontend hasta el backend, me especializo en transformar ideas creativas en soluciones funcionales. Me dedico a la excelencia, la innovación y la resolución creativa de problemas, y así construir aplicaciones web eficientes. Estoy aquí para aprender, crecer y hacer una diferencia en el mundo digital.
 
-**Portfolio:**
-- https://cristiansombra.com
+
 
 
 
