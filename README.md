@@ -9,7 +9,7 @@ Hola, soy Cristian Sombra, Full Stack Developer graduado de Henry, apasionado de
 - https://twitter.com/CristianSombra8
 - cristiansombra87@gmail.com
 
-**Portfolio:**
+**Portafolio:**
 - https://cristiansombra.com
 
 
