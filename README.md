@@ -3,7 +3,7 @@
 
 ### Acerca de mi 😎
 
-Hola, soy Shadow-dev, Full Stack Developer, apasionado del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido increíble, y me cambió la vida.
+Hola, soy Shadow-dev, un Full Stack Developer. Mi nombre real es Cristian Sombra, soy un apasionado del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido increíble, y me cambió la vida.
 
 **Links de contacto:**
 - https://linkedin.com/in/cristiansombra
