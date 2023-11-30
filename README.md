@@ -28,6 +28,6 @@ Como Full Stack, mi enfoque se centra en crear experiencias digitales excepciona
 
 Mi objetivo es el crecimiento profesional y contribuir significativamente al mundo del desarrollo. Estoy en una búsqueda constante de conocimiento y nuevas experiencias. Mi pasión por la programación me impulsa a explorar nuevas tecnologías y prácticas para mantenerme al tanto de las últimas tendencias y desafíos en el campo del desarrollo web.
 
-Gracias por visitar mi perfil de GitHub. 😎
+Gracias por visitar mi perfil de GitHub. ✅
 
 ---
