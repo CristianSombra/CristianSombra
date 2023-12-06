@@ -9,10 +9,10 @@ Hola, soy Shadow-dev, un Full Stack Developer. Mi nombre real es Cristian Sombra
 - | [LinkedIn](https://linkedin.com/in/cristiansombra) |
   | [Twitter](https://twitter.com/CristianSombra8) |
   | [Instagram](https://www.instagram.com/cristiansombra87/) |
-  | Email: cristiansombra87@gmail.com |
+  | [Email](cristiansombra87@gmail.com) |
 
 **Portafolio:**
-- [cristiansombra.com](https://cristiansombra.com)
+- [Shadow-Dev](https://cristiansombra.com)
 
 
 ### ¿Qué Hago? ✍️
