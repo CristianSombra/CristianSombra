@@ -22,8 +22,7 @@ Como Full Stack, mi enfoque se centra en crear experiencias digitales excepciona
 
 ### Tecnologías que Utilizo? 💻
 
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/HTML.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/CSS.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/JS.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/NODE.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/REACT.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/REDUX.png" alt="Ejemplo de imagen" width="100" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/EXPRESS.png" alt="Ejemplo de imagen" width="80" height="80"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/SEQUELIZE.png" alt="Ejemplo de imagen" width="115" height="90"> <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/POSTGRESQL.png" alt="Ejemplo de imagen" width="80" height="80"> <img
-src="https://github.com/CristianSombra/CristianSombra/blob/main/images/Bootstrap.png" alt="Ejemplo de imagen" width="80" height="80">
+<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/placa1.png" alt="Ejemplo de imagen" width="80" height="80">
 
 
 
