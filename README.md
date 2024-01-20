@@ -22,7 +22,7 @@ Como Full Stack, mi enfoque se centra en crear experiencias digitales excepciona
 
 ### Tecnologías que Utilizo? 💻
 
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/placa1.png" alt="Ejemplo de imagen" width="80" height="80">
+<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/placa1.png" alt="Ejemplo de imagen" >
 
 
 
