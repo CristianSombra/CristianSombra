@@ -5,7 +5,6 @@
 
 Hola, soy un apasionado del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido increíble, y me cambió la vida.
 
-**Links de contacto:**
 
 <p align="center">
   <a href="https://cristiansombra.com">Portafolio</a> |
