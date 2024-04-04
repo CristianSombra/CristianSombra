@@ -1,4 +1,4 @@
-<h1 align="center">Cristian Sombra</h1>
+<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/logo.jpg" alt="Ejemplo de imagen" width="100%">
 
 
 ### Acerca de mi ✍
