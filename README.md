@@ -5,13 +5,16 @@
 
 Hola, soy un apasionado del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido increíble, y me cambió la vida.
 
-<p align="center">
-  <span style="margin-right: 10px;"><a href="https://cristiansombra.com">Portafolio</a></span> |
-  <span style="margin-right: 10px;"><a href="https://linkedin.com/in/cristiansombra">LinkedIn</a></span> |
-  <span style="margin-right: 10px;"><a href="https://twitter.com/CristianSombra8">Twitter</a></span> |
-  <span style="margin-right: 10px;"><a href="https://www.instagram.com/cristiansombra87/">Instagram</a></span> |
-  <span><a href="mailto:cristiansombra87@gmail.com">Email</a></span>
-</p>
+<div align="center">
+  <p style="margin-bottom: 10px;">Acerca de mí:</p>
+  <p style="margin-bottom: 20px;">
+    <a href="https://cristiansombra.com">Portafolio</a> |
+    <a href="https://linkedin.com/in/cristiansombra">LinkedIn</a> |
+    <a href="https://twitter.com/CristianSombra8">Twitter</a> |
+    <a href="https://www.instagram.com/cristiansombra87/">Instagram</a> |
+    <a href="mailto:cristiansombra87@gmail.com">Email</a>
+  </p>
+</div>
 
 
 <hr>
