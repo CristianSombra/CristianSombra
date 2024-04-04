@@ -5,19 +5,22 @@
 
 Hola, soy un apasionado del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido increíble, y me cambió la vida.
 
-
 <p align="center">
-  <a href="https://cristiansombra.com">Portafolio</a> |
-  <a href="https://linkedin.com/in/cristiansombra">LinkedIn</a> |
-  <a href="https://twitter.com/CristianSombra8">Twitter</a> |
-  <a href="https://www.instagram.com/cristiansombra87/">Instagram</a> |
-  <a href="mailto:cristiansombra87@gmail.com">Email</a>
+  <span style="margin-right: 10px;"><a href="https://cristiansombra.com">Portafolio</a></span> |
+  <span style="margin-right: 10px;"><a href="https://linkedin.com/in/cristiansombra">LinkedIn</a></span> |
+  <span style="margin-right: 10px;"><a href="https://twitter.com/CristianSombra8">Twitter</a></span> |
+  <span style="margin-right: 10px;"><a href="https://www.instagram.com/cristiansombra87/">Instagram</a></span> |
+  <span><a href="mailto:cristiansombra87@gmail.com">Email</a></span>
 </p>
+
+
+<hr>
 
 ### ¿Qué Hago? 💻
 
 Como Full Stack, mi enfoque se centra en crear experiencias digitales excepcionales. Desde el frontend hasta el backend, me especializo en transformar ideas creativas en soluciones funcionales. Me dedico a la excelencia, la innovación y la resolución creativa de problemas, y así construir aplicaciones web eficientes. Estoy aquí para aprender, crecer y hacer una diferencia en el mundo digital.
 
+<hr>
 
 ### Tecnologías que Utilizo? 📚
 
@@ -27,7 +30,7 @@ Como Full Stack, mi enfoque se centra en crear experiencias digitales excepciona
 <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/placa2.png" alt="Ejemplo de imagen" width="50%">
 </div>
 
-
+<hr>
 
 ### ¿A Dónde Me Dirijo? 🚀
 
