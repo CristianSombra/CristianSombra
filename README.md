@@ -6,13 +6,11 @@
 Hola, soy un apasionado del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido increíble, y me cambió la vida.
 
 **Links de contacto:**
-- | [LinkedIn](https://linkedin.com/in/cristiansombra) |
+- | [Portafolio](https://cristiansombra.com) |
+  | [LinkedIn](https://linkedin.com/in/cristiansombra) |
   | [Twitter](https://twitter.com/CristianSombra8) |
   | [Instagram](https://www.instagram.com/cristiansombra87/) |
   | [Email](cristiansombra87@gmail.com) |
-
-**Portafolio:**
-- [Portafolio](https://cristiansombra.com)
 
 
 ### ¿Qué Hago? 💻
@@ -24,7 +22,8 @@ Como Full Stack, mi enfoque se centra en crear experiencias digitales excepciona
 
 
 <div align="center">
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/placa3.png" alt="Ejemplo de imagen" width="60%">
+<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/placa1.png" alt="Ejemplo de imagen" width="50%">
+<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/placa2.png" alt="Ejemplo de imagen" width="50%">
 </div>
 
 
