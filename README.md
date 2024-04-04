@@ -1,7 +1,7 @@
 <h1 align="center">Cristian Sombra</h1>
 
 
-### Acerca de mi 😎
+### Acerca de mi ✍
 
 Hola, soy un apasionado del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido increíble, y me cambió la vida.
 
@@ -15,12 +15,12 @@ Hola, soy un apasionado del código y amante de los desafíos. Mi viaje en el mu
 - [Portafolio](https://cristiansombra.com)
 
 
-### ¿Qué Hago? ✍️
+### ¿Qué Hago? 💻
 
 Como Full Stack, mi enfoque se centra en crear experiencias digitales excepcionales. Desde el frontend hasta el backend, me especializo en transformar ideas creativas en soluciones funcionales. Me dedico a la excelencia, la innovación y la resolución creativa de problemas, y así construir aplicaciones web eficientes. Estoy aquí para aprender, crecer y hacer una diferencia en el mundo digital.
 
 
-### Tecnologías que Utilizo? 💻
+### Tecnologías que Utilizo? 📚
 
 
 <div align="center">
