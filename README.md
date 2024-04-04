@@ -5,8 +5,7 @@
 
 Hola, soy un apasionado del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido increíble, y me cambió la vida.
 
-<div align="center">
-  <p style="margin-bottom: 10px;">Acerca de mí:</p>
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
   <p style="margin-bottom: 20px;">
     <a href="https://cristiansombra.com">Portafolio</a> |
     <a href="https://linkedin.com/in/cristiansombra">LinkedIn</a> |
