@@ -5,9 +5,7 @@
 
 Hola, soy un apasionado del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido increíble, y me cambió la vida.
 
----
-
-#### Links de contacto:
+    
 
 [Portafolio](https://cristiansombra.com) |
 [LinkedIn](https://linkedin.com/in/cristiansombra) |
@@ -15,7 +13,8 @@ Hola, soy un apasionado del código y amante de los desafíos. Mi viaje en el mu
 [Instagram](https://www.instagram.com/cristiansombra87/) |
 [Email](mailto:cristiansombra87@gmail.com)
 
-
+    
+    
 <hr>
 
 ### ¿Qué Hago? 💻
