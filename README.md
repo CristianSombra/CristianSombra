@@ -1,4 +1,4 @@
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/logo.jpg" alt="Ejemplo de imagen" width="100%">
+<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/logo.png" alt="Ejemplo de imagen" width="100%">
 
 
 ### Acerca de mi ✍
