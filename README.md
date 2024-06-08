@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://cristiansombra.com">Portafolio</a> |
   <a href="https://linkedin.com/in/cristiansombra">LinkedIn</a> |
-  <a href="https://twitter.com/CristianSombra8">Twitter</a> |
   <a href="https://www.instagram.com/cristiansombra87/">Instagram</a> |
   <a href="mailto:cristiansombra87@gmail.com">Email</a>
 </p>
