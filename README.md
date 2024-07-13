@@ -22,11 +22,11 @@
 
 ### ¿Qué Hago? 💻
 
-Como Full Stack, mi enfoque se centra en crear experiencias digitales excepcionales. Desde el frontend hasta el backend, me especializo en transformar ideas creativas en soluciones funcionales. Me dedico a la excelencia, la innovación y la resolución creativa de problemas, y así construir aplicaciones web eficientes. Estoy aquí para aprender, crecer y hacer una diferencia en el mundo digital.
+Como Full Stack, mi enfoque se centra en crear experiencias digitales excepcionales y funcionales. Me dedico a la excelencia, la innovación y la resolución creativa de problemas. Estoy aquí para aprender, crecer y hacer una diferencia en el mundo digital.
 
 <hr>
 
-### Tecnologías que Utilizo? 📚
+### Tecnologías que Utilizo 📚
 
 
 <div align="center">
@@ -38,7 +38,7 @@ Como Full Stack, mi enfoque se centra en crear experiencias digitales excepciona
 
 ### ¿A Dónde Me Dirijo? 🚀
 
-Mi objetivo es el crecimiento profesional y contribuir significativamente al mundo del desarrollo. Estoy en una búsqueda constante de conocimiento y nuevas experiencias. Mi pasión por la programación me impulsa a explorar nuevas tecnologías y prácticas para mantenerme al tanto de las últimas tendencias y desafíos en el campo del desarrollo web.
+Mi objetivo es el crecimiento profesional y contribuir significativamente al mundo del desarrollo. Estoy en una búsqueda constante de conocimiento y nuevas experiencias.
 
 Gracias por visitar mi perfil de GitHub. ✅
 
