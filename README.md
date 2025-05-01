@@ -30,7 +30,7 @@ Como Full Stack, mi enfoque se centra en crear experiencias digitales excepciona
 
 
 <div align="center">
-<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/placa1.png" alt="Ejemplo de imagen" width="60%">
+<img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/placa1.png" alt="Ejemplo de imagen" width="65%">
 <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/placa2.png" alt="Ejemplo de imagen" width="50%">
 </div>
 
