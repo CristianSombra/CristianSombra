@@ -1,7 +1,7 @@
 <img src="https://github.com/CristianSombra/CristianSombra/blob/main/images/logo.jpg" alt="Ejemplo de imagen" width="100%">
 
 
-<p align="center">Apasionado del código y amante de los desafíos. Mi viaje en el mundo del desarrollo ha sido increíble, y me cambió la vida.</p>
+<p align="center">Apasionado del código y amante de los desafíos.</p>
 
 <div>
 
